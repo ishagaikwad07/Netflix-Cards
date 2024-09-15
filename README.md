@@ -13,3 +13,4 @@ Currently, two official plugins are available:
 # Netflix-Cards
 # Netflix-Cards
 # Netflix-Cards
+# Netflix-Cards
