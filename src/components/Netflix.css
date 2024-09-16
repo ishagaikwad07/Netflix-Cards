@@ -1,3 +1,21 @@
 .card-heading{
    margin-bottom: 3.2rem; 
 }
+
+.card{
+    box-shadow: rgb(0, 0, 0,0.5) 0px 3px 10px 0px,
+     rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+     height: auto;
+   
+   
+}
+
+img{
+    width:100%
+}
+.card-content{
+        padding: 3.2rem,1.2rem;
+        display: flex;
+        flex-direction: column;
+        gap: 1.2rem;
+}
