@@ -4,7 +4,7 @@ export const SeriesCard = (props)=>{
     return (
         <li>
           <div>
-          <img  width = "40%" height = "40%" src={img_url} alt={name} />
+          <img  width = "50%" height = "70%" src={img_url} alt={name} />
             </div>
           <h2>Name: {name}</h2>
           <h3>Rating: {rating}</h3>
